@@ -1,0 +1,16 @@
+.divColor {
+    background: var(--gray-700);
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    margin-top: 2.8rem;
+}
+
+.logo img{
+    margin: 0.3rem;
+}
+
